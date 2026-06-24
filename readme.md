@@ -6,10 +6,13 @@ Raw figures/tables as well as scripts for Stouffer, Miranda, Pauler, Pipicelli e
 
 ## Quick guide
 
-### scRNA-Seq analysis followed this order order of analysis
+### scRNA-Seq analysis followed this order of analysis
 - cellranger
 - initial_analysis_organoids
 - analysis_embryo_comp
+
+### MADM-CloneSeq
+MADM-CloneSeq data
 
 ### statistics and figures for clonal data
 - clonal_analysis
@@ -53,4 +56,9 @@ Quick guide to script - figure link (all in analysis_embryo_comp):
 - Ext. Data Fig 23e: step21
 - Ext. Data Fig 24b,c,d,e,f,g: step19.R
 - Ext. Data Fig 25: step17.R
+
+### MADM-CloneSeq: 
+contains info about MADM-CloneSeq used or created in above analysis as well as some stand alone analyses
+
+Note that PDFs were compressed to save space
 
