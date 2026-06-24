@@ -12,7 +12,7 @@ Raw figures/tables as well as scripts for Stouffer, Miranda, Pauler, Pipicelli e
 - analysis_embryo_comp
 
 ### MADM-CloneSeq
-MADM-CloneSeq data
+- MADM-CloneSeq data
 
 ### statistics and figures for clonal data
 - clonal_analysis
