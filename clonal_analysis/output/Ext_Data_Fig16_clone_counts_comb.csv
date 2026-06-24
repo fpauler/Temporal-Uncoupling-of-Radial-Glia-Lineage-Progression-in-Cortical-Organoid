@@ -1,0 +1,110 @@
+"","idx","age.x","batch.x","cloneType.x","counts.x","age.y","batch.y","cloneType.y","counts.y","age.x","batch.x","cloneType.x","counts.x","age.y","batch.y","cloneType.y","counts.y","age.x","batch.x","cloneType.x","counts.x","age.y","batch.y","cloneType.y","counts.y","age","batch","cloneType","counts"
+"1",1,"D8","Batch 1","Asym",21,"D9","Batch 1","Asym",20,"D10","Batch 1","Asym",20,"D11","Batch 1","Asym",8,"D12","Batch 1","Asym",7,"D13","Batch 1","Asym",6,"D15","Batch 1","Asym",5
+"2",2,"D8","Batch 1","Asym",8,"D9","Batch 1","Asym",11,"D10","Batch 1","Asym",6,"D11","Batch 1","Asym",9,"D12","Batch 1","Asym",12,"D13","Batch 1","Asym",9,"D15","Batch 2","Asym",10
+"3",3,"D8","Batch 1","Asym",5,"D9","Batch 1","Asym",7,"D10","Batch 1","Asym",13,"D11","Batch 2","Asym",12,"D12","Batch 1","Asym",7,"D13","Batch 1","Asym",24,"D15","Batch 2","Asym",9
+"4",4,"D8","Batch 1","Asym",10,"D9","Batch 1","Asym",10,"D10","Batch 1","Asym",8,"D11","Batch 2","Asym",6,"D12","Batch 1","Asym",8,"D13","Batch 1","Asym",24,"D15","Batch 2","Asym",7
+"5",5,"D8","Batch 1","Asym",11,"D9","Batch 1","Asym",6,"D10","Batch 1","Asym",7,"D11","Batch 2","Asym",9,"D12","Batch 1","Asym",19,"D13","Batch 1","Asym",5,"D15","Batch 2","Asym",7
+"6",6,"D8","Batch 1","Asym",12,"D9","Batch 1","Asym",5,"D10","Batch 1","Asym",8,"D11","Batch 2","Asym",5,"D12","Batch 1","Asym",8,"D13","Batch 1","Asym",10,"D15","Batch 2","Asym",10
+"7",7,"D8","Batch 1","Asym",17,"D9","Batch 2","Asym",14,"D10","Batch 2","Asym",5,"D11","Batch 2","Asym",7,"D12","Batch 2","Asym",6,"D13","Batch 2","Asym",8,"D15","Batch 3","Asym",13
+"8",8,"D8","Batch 1","Asym",24,"D9","Batch 2","Asym",13,"D10","Batch 2","Asym",22,"D11","Batch 2","Asym",7,"D12","Batch 2","Asym",10,"D13","Batch 2","Asym",8,"D15","Batch 3","Asym",13
+"9",9,"D8","Batch 1","Asym",6,"D9","Batch 2","Asym",6,"D10","Batch 2","Asym",6,"D11","Batch 2","Asym",7,"D12","Batch 2","Asym",6,"D13","Batch 2","Asym",9,"D15","Batch 3","Asym",8
+"10",10,"D8","Batch 1","Asym",16,"D9","Batch 2","Asym",6,"D10","Batch 2","Asym",9,"D11","Batch 3","Asym",5,"D12","Batch 2","Asym",7,"D13","Batch 2","Asym",6,"D15","Batch 3","Asym",5
+"11",11,"D8","Batch 1","Asym",8,"D9","Batch 3","Asym",10,"D10","Batch 2","Asym",7,"D11","Batch 3","Asym",9,"D12","Batch 2","Asym",6,"D13","Batch 2","Asym",14,"D15","Batch 1","Small",2
+"12",12,"D8","Batch 1","Asym",15,"D9","Batch 3","Asym",7,"D10","Batch 2","Asym",12,"D11","Batch 3","Asym",7,"D12","Batch 3","Asym",7,"D13","Batch 2","Asym",14,"D15","Batch 1","Small",2
+"13",13,"D8","Batch 2","Asym",5,"D9","Batch 3","Asym",27,"D10","Batch 2","Asym",17,"D11","Batch 3","Asym",14,"D12","Batch 3","Asym",10,"D13","Batch 2","Asym",8,"D15","Batch 1","Small",2
+"14",14,"D8","Batch 2","Asym",6,"D9","Batch 3","Asym",6,"D10","Batch 2","Asym",9,"D11","Batch 3","Asym",8,"D12","Batch 3","Asym",6,"D13","Batch 2","Asym",13,"D15","Batch 1","Small",4
+"15",15,"D8","Batch 2","Asym",6,"D9","Batch 3","Asym",7,"D10","Batch 2","Asym",6,"D11","Batch 1","Prolif",47,"D12","Batch 3","Asym",8,"D13","Batch 2","Asym",7,"D15","Batch 1","Small",2
+"16",16,"D8","Batch 2","Asym",7,"D9","Batch 1","Prolif",41,"D10","Batch 2","Asym",6,"D11","Batch 1","Prolif",35,"D12","Batch 3","Asym",10,"D13","Batch 2","Asym",15,"D15","Batch 1","Small",6
+"17",17,"D8","Batch 2","Asym",8,"D9","Batch 1","Prolif",135,"D10","Batch 2","Asym",13,"D11","Batch 1","Prolif",19,"D12","Batch 3","Asym",10,"D13","Batch 3","Asym",7,"D15","Batch 1","Small",4
+"18",18,"D8","Batch 2","Asym",26,"D9","Batch 1","Prolif",12,"D10","Batch 3","Asym",5,"D11","Batch 1","Prolif",15,"D12","Batch 1","Prolif",21,"D13","Batch 3","Asym",8,"D15","Batch 1","Small",4
+"19",19,"D8","Batch 2","Asym",30,"D9","Batch 1","Prolif",78,"D10","Batch 3","Asym",12,"D11","Batch 2","Prolif",34,"D12","Batch 1","Prolif",27,"D13","Batch 3","Asym",7,"D15","Batch 1","Small",3
+"20",20,"D8","Batch 2","Asym",14,"D9","Batch 1","Prolif",39,"D10","Batch 3","Asym",7,"D11","Batch 2","Prolif",41,"D12","Batch 1","Prolif",9,"D13","Batch 3","Asym",11,"D15","Batch 1","Small",5
+"21",21,"D8","Batch 2","Asym",9,"D9","Batch 1","Prolif",49,"D10","Batch 3","Asym",30,"D11","Batch 2","Prolif",17,"D12","Batch 1","Prolif",11,"D13","Batch 1","Prolif",12,"D15","Batch 1","Small",4
+"22",22,"D8","Batch 2","Asym",8,"D9","Batch 2","Prolif",17,"D10","Batch 3","Asym",24,"D11","Batch 2","Prolif",56,"D12","Batch 1","Prolif",22,"D13","Batch 1","Prolif",13,"D15","Batch 1","Small",2
+"23",23,"D8","Batch 2","Asym",9,"D9","Batch 2","Prolif",14,"D10","Batch 3","Asym",8,"D11","Batch 2","Prolif",59,"D12","Batch 1","Prolif",18,"D13","Batch 1","Prolif",11,"D15","Batch 2","Small",5
+"24",24,"D8","Batch 3","Asym",8,"D9","Batch 2","Prolif",53,"D10","Batch 3","Asym",7,"D11","Batch 2","Prolif",13,"D12","Batch 1","Prolif",13,"D13","Batch 1","Prolif",30,"D15","Batch 2","Small",4
+"25",25,"D8","Batch 3","Asym",10,"D9","Batch 2","Prolif",24,"D10","Batch 3","Asym",8,"D11","Batch 2","Prolif",19,"D12","Batch 2","Prolif",43,"D13","Batch 1","Prolif",10,"D15","Batch 2","Small",3
+"26",26,"D8","Batch 3","Asym",35,"D9","Batch 2","Prolif",20,"D10","Batch 3","Asym",34,"D11","Batch 3","Prolif",32,"D12","Batch 2","Prolif",9,"D13","Batch 2","Prolif",30,"D15","Batch 2","Small",3
+"27",27,"D8","Batch 4","Asym",7,"D9","Batch 2","Prolif",35,"D10","Batch 3","Asym",8,"D11","Batch 3","Prolif",9,"D12","Batch 2","Prolif",51,"D13","Batch 2","Prolif",17,"D15","Batch 2","Small",2
+"28",28,"D8","Batch 4","Asym",6,"D9","Batch 2","Prolif",28,"D10","Batch 3","Asym",11,"D11","Batch 3","Prolif",31,"D12","Batch 2","Prolif",34,"D13","Batch 2","Prolif",18,"D15","Batch 2","Small",2
+"29",29,"D8","Batch 4","Asym",15,"D9","Batch 2","Prolif",10,"D10","Batch 3","Asym",25,"D11","Batch 3","Prolif",36,"D12","Batch 2","Prolif",17,"D13","Batch 2","Prolif",8,"D15","Batch 2","Small",2
+"30",30,"D8","Batch 4","Asym",9,"D9","Batch 3","Prolif",11,"D10","Batch 3","Asym",31,"D11","Batch 3","Prolif",19,"D12","Batch 2","Prolif",38,"D13","Batch 2","Prolif",12,"D15","Batch 2","Small",2
+"31",31,"D8","Batch 4","Asym",9,"D9","Batch 3","Prolif",103,"D10","Batch 3","Asym",12,"D11","Batch 3","Prolif",8,"D12","Batch 3","Prolif",37,"D13","Batch 3","Prolif",8,"D15","Batch 2","Small",6
+"32",32,"D8","Batch 4","Asym",23,"D9","Batch 3","Prolif",113,"D10","Batch 1","Prolif",72,"D11","Batch 3","Prolif",73,"D12","Batch 3","Prolif",37,"D13","Batch 3","Prolif",11,"D15","Batch 3","Small",2
+"33",33,"D8","Batch 1","Prolif",25,"D9","Batch 3","Prolif",35,"D10","Batch 1","Prolif",106,"D11","Batch 1","Small",2,"D12","Batch 3","Prolif",16,"D13","Batch 3","Prolif",8,"D15","Batch 3","Small",5
+"34",34,"D8","Batch 1","Prolif",15,"D9","Batch 3","Prolif",42,"D10","Batch 1","Prolif",68,"D11","Batch 1","Small",3,"D12","Batch 3","Prolif",11,"D13","Batch 1","Small",3,"D15","Batch 3","Small",4
+"35",35,"D8","Batch 1","Prolif",54,"D9","Batch 3","Prolif",21,"D10","Batch 1","Prolif",13,"D11","Batch 1","Small",2,"D12","Batch 1","Small",2,"D13","Batch 1","Small",2,"D15","Batch 3","Small",3
+"36",36,"D8","Batch 1","Prolif",10,"D9","Batch 1","Small",4,"D10","Batch 1","Prolif",22,"D11","Batch 1","Small",2,"D12","Batch 1","Small",2,"D13","Batch 1","Small",3,"D15","Batch 3","Small",2
+"37",37,"D8","Batch 1","Prolif",11,"D9","Batch 2","Small",5,"D10","Batch 1","Prolif",27,"D11","Batch 1","Small",2,"D12","Batch 1","Small",2,"D13","Batch 1","Small",2,"D15","Batch 3","Small",3
+"38",38,"D8","Batch 1","Prolif",31,"D9","Batch 2","Small",2,"D10","Batch 1","Prolif",91,"D11","Batch 1","Small",3,"D12","Batch 1","Small",2,"D13","Batch 1","Small",3,"D15","Batch 3","Small",4
+"39",39,"D8","Batch 1","Prolif",32,"D9","Batch 2","Small",6,"D10","Batch 1","Prolif",47,"D11","Batch 2","Small",4,"D12","Batch 1","Small",2,"D13","Batch 1","Small",5,"D15","Batch 3","Small",2
+"40",40,"D8","Batch 1","Prolif",33,"D9","Batch 2","Small",4,"D10","Batch 1","Prolif",14,"D11","Batch 2","Small",3,"D12","Batch 1","Small",4,"D13","Batch 1","Small",3,"D15","Batch 3","Small",5
+"41",41,"D8","Batch 1","Prolif",13,"D9","Batch 2","Small",4,"D10","Batch 1","Prolif",30,"D11","Batch 2","Small",4,"D12","Batch 1","Small",2,"D13","Batch 1","Small",3,NA,NA,NA,NA
+"42",42,"D8","Batch 1","Prolif",14,"D9","Batch 2","Small",3,"D10","Batch 1","Prolif",21,"D11","Batch 2","Small",3,"D12","Batch 1","Small",5,"D13","Batch 1","Small",2,NA,NA,NA,NA
+"43",43,"D8","Batch 1","Prolif",16,"D9","Batch 2","Small",3,"D10","Batch 1","Prolif",101,"D11","Batch 2","Small",2,"D12","Batch 1","Small",5,"D13","Batch 1","Small",3,NA,NA,NA,NA
+"44",44,"D8","Batch 1","Prolif",17,"D9","Batch 3","Small",2,"D10","Batch 2","Prolif",89,"D11","Batch 2","Small",3,"D12","Batch 1","Small",4,"D13","Batch 1","Small",2,NA,NA,NA,NA
+"45",45,"D8","Batch 1","Prolif",17,"D9","Batch 3","Small",3,"D10","Batch 2","Prolif",26,"D11","Batch 3","Small",4,"D12","Batch 1","Small",3,"D13","Batch 1","Small",2,NA,NA,NA,NA
+"46",46,"D8","Batch 1","Prolif",19,"D9","Batch 3","Small",3,"D10","Batch 2","Prolif",38,"D11","Batch 3","Small",4,"D12","Batch 1","Small",5,"D13","Batch 1","Small",4,NA,NA,NA,NA
+"47",47,"D8","Batch 1","Prolif",19,NA,NA,NA,NA,"D10","Batch 2","Prolif",19,"D11","Batch 3","Small",2,"D12","Batch 1","Small",6,"D13","Batch 2","Small",2,NA,NA,NA,NA
+"48",48,"D8","Batch 1","Prolif",22,NA,NA,NA,NA,"D10","Batch 2","Prolif",26,"D11","Batch 3","Small",3,"D12","Batch 1","Small",5,"D13","Batch 2","Small",3,NA,NA,NA,NA
+"49",49,"D8","Batch 1","Prolif",11,NA,NA,NA,NA,"D10","Batch 2","Prolif",41,"D11","Batch 3","Small",2,"D12","Batch 2","Small",4,"D13","Batch 2","Small",3,NA,NA,NA,NA
+"50",50,"D8","Batch 1","Prolif",120,NA,NA,NA,NA,"D10","Batch 2","Prolif",40,"D11","Batch 3","Small",2,"D12","Batch 2","Small",4,"D13","Batch 2","Small",3,NA,NA,NA,NA
+"51",51,"D8","Batch 1","Prolif",27,NA,NA,NA,NA,"D10","Batch 2","Prolif",56,NA,NA,NA,NA,"D12","Batch 2","Small",4,"D13","Batch 2","Small",4,NA,NA,NA,NA
+"52",52,"D8","Batch 1","Prolif",38,NA,NA,NA,NA,"D10","Batch 2","Prolif",47,NA,NA,NA,NA,"D12","Batch 2","Small",3,"D13","Batch 2","Small",2,NA,NA,NA,NA
+"53",53,"D8","Batch 1","Prolif",44,NA,NA,NA,NA,"D10","Batch 2","Prolif",16,NA,NA,NA,NA,"D12","Batch 2","Small",3,"D13","Batch 2","Small",5,NA,NA,NA,NA
+"54",54,"D8","Batch 1","Prolif",60,NA,NA,NA,NA,"D10","Batch 2","Prolif",20,NA,NA,NA,NA,"D12","Batch 2","Small",5,"D13","Batch 2","Small",3,NA,NA,NA,NA
+"55",55,"D8","Batch 1","Prolif",104,NA,NA,NA,NA,"D10","Batch 2","Prolif",9,NA,NA,NA,NA,"D12","Batch 2","Small",4,"D13","Batch 2","Small",2,NA,NA,NA,NA
+"56",56,"D8","Batch 2","Prolif",16,NA,NA,NA,NA,"D10","Batch 2","Prolif",56,NA,NA,NA,NA,"D12","Batch 3","Small",3,"D13","Batch 2","Small",3,NA,NA,NA,NA
+"57",57,"D8","Batch 2","Prolif",37,NA,NA,NA,NA,"D10","Batch 2","Prolif",17,NA,NA,NA,NA,"D12","Batch 3","Small",4,"D13","Batch 2","Small",3,NA,NA,NA,NA
+"58",58,"D8","Batch 2","Prolif",45,NA,NA,NA,NA,"D10","Batch 2","Prolif",26,NA,NA,NA,NA,"D12","Batch 3","Small",3,"D13","Batch 3","Small",3,NA,NA,NA,NA
+"59",59,"D8","Batch 2","Prolif",49,NA,NA,NA,NA,"D10","Batch 2","Prolif",71,NA,NA,NA,NA,"D12","Batch 3","Small",3,"D13","Batch 3","Small",2,NA,NA,NA,NA
+"60",60,"D8","Batch 2","Prolif",62,NA,NA,NA,NA,"D10","Batch 2","Prolif",16,NA,NA,NA,NA,"D12","Batch 3","Small",3,"D13","Batch 3","Small",2,NA,NA,NA,NA
+"61",61,"D8","Batch 2","Prolif",63,NA,NA,NA,NA,"D10","Batch 2","Prolif",26,NA,NA,NA,NA,"D12","Batch 3","Small",2,"D13","Batch 3","Small",3,NA,NA,NA,NA
+"62",62,"D8","Batch 2","Prolif",64,NA,NA,NA,NA,"D10","Batch 2","Prolif",23,NA,NA,NA,NA,NA,NA,NA,NA,"D13","Batch 3","Small",3,NA,NA,NA,NA
+"63",63,"D8","Batch 2","Prolif",125,NA,NA,NA,NA,"D10","Batch 2","Prolif",18,NA,NA,NA,NA,NA,NA,NA,NA,"D13","Batch 3","Small",3,NA,NA,NA,NA
+"64",64,"D8","Batch 2","Prolif",70,NA,NA,NA,NA,"D10","Batch 2","Prolif",32,NA,NA,NA,NA,NA,NA,NA,NA,"D13","Batch 3","Small",3,NA,NA,NA,NA
+"65",65,"D8","Batch 2","Prolif",22,NA,NA,NA,NA,"D10","Batch 3","Prolif",18,NA,NA,NA,NA,NA,NA,NA,NA,"D13","Batch 3","Small",2,NA,NA,NA,NA
+"66",66,"D8","Batch 2","Prolif",12,NA,NA,NA,NA,"D10","Batch 3","Prolif",11,NA,NA,NA,NA,NA,NA,NA,NA,"D13","Batch 3","Small",2,NA,NA,NA,NA
+"67",67,"D8","Batch 2","Prolif",79,NA,NA,NA,NA,"D10","Batch 3","Prolif",48,NA,NA,NA,NA,NA,NA,NA,NA,"D13","Batch 3","Small",2,NA,NA,NA,NA
+"68",68,"D8","Batch 2","Prolif",37,NA,NA,NA,NA,"D10","Batch 3","Prolif",8,NA,NA,NA,NA,NA,NA,NA,NA,"D13","Batch 3","Small",5,NA,NA,NA,NA
+"69",69,"D8","Batch 2","Prolif",72,NA,NA,NA,NA,"D10","Batch 3","Prolif",39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"70",70,"D8","Batch 2","Prolif",40,NA,NA,NA,NA,"D10","Batch 3","Prolif",18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"71",71,"D8","Batch 2","Prolif",32,NA,NA,NA,NA,"D10","Batch 3","Prolif",14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"72",72,"D8","Batch 3","Prolif",67,NA,NA,NA,NA,"D10","Batch 3","Prolif",32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"73",73,"D8","Batch 3","Prolif",85,NA,NA,NA,NA,"D10","Batch 3","Prolif",57,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"74",74,"D8","Batch 3","Prolif",92,NA,NA,NA,NA,"D10","Batch 3","Prolif",25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"75",75,"D8","Batch 3","Prolif",110,NA,NA,NA,NA,"D10","Batch 3","Prolif",19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"76",76,"D8","Batch 3","Prolif",129,NA,NA,NA,NA,"D10","Batch 3","Prolif",43,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"77",77,"D8","Batch 3","Prolif",56,NA,NA,NA,NA,"D10","Batch 3","Prolif",49,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"78",78,"D8","Batch 3","Prolif",55,NA,NA,NA,NA,"D10","Batch 1","Small",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"79",79,"D8","Batch 3","Prolif",11,NA,NA,NA,NA,"D10","Batch 1","Small",6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"80",80,"D8","Batch 4","Prolif",14,NA,NA,NA,NA,"D10","Batch 1","Small",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"81",81,"D8","Batch 4","Prolif",15,NA,NA,NA,NA,"D10","Batch 2","Small",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"82",82,"D8","Batch 4","Prolif",9,NA,NA,NA,NA,"D10","Batch 2","Small",5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"83",83,"D8","Batch 4","Prolif",64,NA,NA,NA,NA,"D10","Batch 2","Small",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"84",84,"D8","Batch 4","Prolif",46,NA,NA,NA,NA,"D10","Batch 2","Small",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"85",85,"D8","Batch 4","Prolif",11,NA,NA,NA,NA,"D10","Batch 2","Small",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"86",86,"D8","Batch 1","Small",4,NA,NA,NA,NA,"D10","Batch 2","Small",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"87",87,"D8","Batch 1","Small",2,NA,NA,NA,NA,"D10","Batch 2","Small",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"88",88,"D8","Batch 1","Small",5,NA,NA,NA,NA,"D10","Batch 3","Small",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"89",89,"D8","Batch 1","Small",3,NA,NA,NA,NA,"D10","Batch 3","Small",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"90",90,"D8","Batch 1","Small",3,NA,NA,NA,NA,"D10","Batch 3","Small",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"91",91,"D8","Batch 1","Small",4,NA,NA,NA,NA,"D10","Batch 3","Small",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"92",92,"D8","Batch 1","Small",4,NA,NA,NA,NA,"D10","Batch 3","Small",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"93",93,"D8","Batch 1","Small",2,NA,NA,NA,NA,"D10","Batch 3","Small",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"94",94,"D8","Batch 1","Small",6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"95",95,"D8","Batch 2","Small",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"96",96,"D8","Batch 2","Small",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"97",97,"D8","Batch 2","Small",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"98",98,"D8","Batch 2","Small",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"99",99,"D8","Batch 2","Small",5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"100",100,"D8","Batch 2","Small",5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"101",101,"D8","Batch 2","Small",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"102",102,"D8","Batch 2","Small",6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"103",103,"D8","Batch 2","Small",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"104",104,"D8","Batch 3","Small",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"105",105,"D8","Batch 3","Small",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"106",106,"D8","Batch 3","Small",5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"107",107,"D8","Batch 4","Small",5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"108",108,"D8","Batch 4","Small",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"109",109,"D8","Batch 4","Small",6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
