@@ -14,7 +14,7 @@ Raw figures/tables as well as scripts for Stouffer, Miranda, Pauler, Pipicelli e
 ### statistics and figures for clonal data
 - clonal_analysis
 
-### statistics and figures for histology data
+### statistics for histology data
 - statistics
 
 ---
