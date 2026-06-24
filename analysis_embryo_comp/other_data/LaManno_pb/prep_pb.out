@@ -1,0 +1,187 @@
+During startup - Warning messages:
+1: Setting LC_CTYPE failed, using "C" 
+2: Setting LC_COLLATE failed, using "C" 
+3: Setting LC_TIME failed, using "C" 
+4: Setting LC_MESSAGES failed, using "C" 
+5: Setting LC_MONETARY failed, using "C" 
+6: Setting LC_PAPER failed, using "C" 
+7: Setting LC_MEASUREMENT failed, using "C" 
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Loading required package: R6
+Loading required package: hdf5r
+Loading required package: iterators
+Loading required package: itertools
+
+Attaching package: 'loomR'
+
+The following object is masked from 'package:dplyr':
+
+    combine
+
+
+Attaching package: 'data.table'
+
+The following objects are masked from 'package:dplyr':
+
+    between, first, last
+
+Loading required package: SeuratObject
+Loading required package: sp
+
+Attaching package: 'SeuratObject'
+
+The following objects are masked from 'package:base':
+
+    intersect, t
+
+Warning message:
+In initialize(...) :
+  Skipping validation step, some fields are not populated
+[1] "Radial glia" "Glia"        "Neuroblast"  "Neuron"     
+Warning: Data is of class matrix. Coercing to dgCMatrix.
+Normalizing layer: counts
+Performing log-normalization
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Finding variable features for layer counts
+Calculating gene variances
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Calculating feature variances of standardized and clipped values
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+Centering and scaling data matrix
+  |                                                                              |                                                                      |   0%  |                                                                              |===================================                                   |  50%  |                                                                              |======================================================================| 100%
+PC_ 1 
+Positive:  Rtn1, Tubb3, Mllt11, Stmn3, Mapt, Stmn2, Rbfox1, Ptprd, Myt1l, Nrxn1 
+	   Tmsb10, Tubb2a, Nav3, Ly6h, Gpm6a, Stmn4, Gap43, Neurod6, Grin2b, Cnih2 
+	   Anks1b, Snap25, Celf4, Phactr1, Neurod2, Arpp21, Tenm2, Ina, Pcsk1n, Slc8a1 
+Negative:  Hmgb2, Pclaf, Anp32b, Birc5, Rrm2, Cdca8, Cks1b, Vim, Gmnn, Mdk 
+	   Tead2, Siva1, Spc24, Ranbp1, Top2a, Cdk1, Dek, Ran, Smc4, H2afv 
+	   Ccnb1, Cenpa, Ccna2, Eef1d, Ube2c, Cdca3, Ccnd2, Cenpf, Cks2, Slc25a5 
+PC_ 2 
+Positive:  Neurod2, Neurod6, Unc5d, Meis2, Sstr2, Rnd2, Frmd4b, Mfap4, Tmsb4x, Nrg1 
+	   Plcb1, Emx1, Epha3, Nkain3, Nfix, Eomes, Epha5, Robo2, Nfia, Nrp1 
+	   Rbfox3, Sorbs2, Hs3st1, Neurog2, Id2, Lhx2, Mfng, H1f0, Sema3c, Plxna4 
+Negative:  Meg3, Pcsk1n, Tcf7l2, Mast4, Tmem130, Ntng1, Resp18, Caly, Dpp6, Ncald 
+	   Nrg3, Tubb2a, Cadm1, Zfhx3, Atp1b1, Mdga2, Car10, Csmd3, Kcnma1, Ina 
+	   Ly6h, Grm7, Cspg5, Zcchc12, Trpm3, Grm5, Cntn1, Fam155a, Rac3, Arl4a 
+PC_ 3 
+Positive:  Mef2c, Dab1, Dync1i1, Satb2, Opcml, Tiam2, Arpp21, Rbfox1, Zeb2, Hivep2 
+	   Kcnq5, Lrfn5, Clstn2, Sla, Id2, Slc8a1, Neurod6, Hs6st2, Fam49a, Cdh13 
+	   Sybu, Itpr1, Ptprz1, Lpl, Ccbe1, Dok5, Ssbp2, Nin, Grin2b, Msra 
+Negative:  Tmem163, Lhx9, Rmst, Nnat, Nhlh2, Zfhx3, Resp18, Zcchc12, Nrn1, Mfap4 
+	   Eomes, Elavl4, Uncx, Syt13, Nxph1, Tcf7l2, Rcan2, Ntng1, Zic1, Ebf1 
+	   Car10, Maml3, Dmrtb1, Zic4, Btbd17, Mfng, Chd7, Negr1, Neurog2, Pcp4 
+PC_ 4 
+Positive:  Nusap1, Prc1, Ube2c, Ckap2l, Cenpe, Hmmr, Lockd, Cenpf, Pif1, Aspm 
+	   Mis18bp1, Kif23, Plk1, Tpx2, Aurka, Ccnb1, Kifc1, Knl1, Sapcd2, Sgo2a 
+	   Kif2c, Cep55, Kif22, Kpna2, Cks2, Cdk1, Ckap2, Aurkb, Mki67, Cdca2 
+Negative:  Ung, Ldha, Crabp2, Mif, Prtg, Slc16a3, Mest, Gins2, Ccne1, Hspe1 
+	   Hsp90ab1, Eif5a, Npm1, Dlk1, Mecom, Rps2, Mcm3, Id3, Rps3, Mcm4 
+	   Mcm6, Mcm5, Rpl12, Rack1, Serpinh1, Emb, Rpl14, Gpc3, Mcm2, Wfdc2 
+PC_ 5 
+Positive:  Bcan, Aldoc, Olig1, Fabp7, Scrg1, Ndrg2, Pdgfra, Rgcc, Dbi, Matn4 
+	   Creb5, Mfge8, Ednrb, Lhfpl3, Serpine2, Atp1a2, Slc1a3, Maml2, Ttyh1, Olig2 
+	   Sox9, Mt1, Gpr17, Sox6, Ddah1, Mt3, Ptprz1, Hes5, Etl4, Cspg5 
+Negative:  Tubb3, Plk1, Ube2c, Cdkn1c, Aurka, Crabp2, Ccnb1, Cenpe, Cenpf, Hmmr 
+	   Kif2c, Cdc20, Pimreg, Birc5, Ckap2l, Tubb4b, Kif22, Kif20a, Psrc1, Tpx2 
+	   Meg3, Nusap1, Cks2, Lhx5, Nhlh2, Dlk1, Aurkb, Ccna2, Cdca8, Sgo2a 
+Warning: The default method for RunUMAP has changed from calling Python UMAP via reticulate to the R-native UWOT using the cosine metric
+To use Python UMAP via reticulate, set umap.method to 'umap-learn' and metric to 'correlation'
+This message will be shown once per session
+13:51:38 UMAP embedding parameters a = 0.9922 b = 1.112
+13:51:38 Read 10000 rows and found 25 numeric columns
+13:51:38 Using Annoy for neighbor search, n_neighbors = 30
+13:51:38 Building Annoy index with metric = cosine, n_trees = 50
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+13:51:38 Writing NN index file to temp file /tmp/Rtmp0unKtl/file1e29b670b56bb
+13:51:38 Searching Annoy index using 1 thread, search_k = 3000
+13:51:41 Annoy recall = 100%
+13:51:41 Commencing smooth kNN distance calibration using 1 thread with target n_neighbors = 30
+13:51:42 Initializing from normalized Laplacian + noise (using RSpectra)
+13:51:42 Commencing optimization for 500 epochs, with 390844 positive edges
+13:51:42 Using rng type: pcg
+Using method 'umap'
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+13:51:50 Optimization finished
+Warning message:
+The `slot` argument of `FetchData()` is deprecated as of SeuratObject 5.0.0.
+i Please use the `layer` argument instead.
+i The deprecated feature was likely used in the Seurat package.
+  Please report the issue at <https://github.com/satijalab/seurat/issues>. 
+R version 4.4.1 (2024-06-14)
+Platform: x86_64-pc-linux-gnu
+Running under: Debian GNU/Linux 12 (bookworm)
+
+Matrix products: default
+BLAS:   /nfs/scistore07/clustersw/debian/bookworm/R/4.4.1/lib/R/lib/libRblas.so 
+LAPACK: /nfs/scistore07/clustersw/debian/bookworm/R/4.4.1/lib/R/lib/libRlapack.so;  LAPACK version 3.12.0
+
+locale:
+[1] C
+
+time zone: Europe/Vienna
+tzcode source: system (glibc)
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] Seurat_5.3.0       SeuratObject_5.1.0 sp_2.2-0           data.table_1.17.4 
+ [5] loomR_0.2.0        itertools_0.1-3    iterators_1.0.14   hdf5r_1.3.11      
+ [9] R6_2.6.1           ggplot2_3.5.2      dplyr_1.1.4       
+
+loaded via a namespace (and not attached):
+  [1] deldir_2.0-4           pbapply_1.7-2          gridExtra_2.3         
+  [4] rlang_1.1.6            magrittr_2.0.3         RcppAnnoy_0.0.22      
+  [7] spatstat.geom_3.4-1    matrixStats_1.5.0      ggridges_0.5.6        
+ [10] compiler_4.4.1         systemfonts_1.2.3      png_0.1-8             
+ [13] vctrs_0.6.5            reshape2_1.4.4         stringr_1.5.1         
+ [16] pkgconfig_2.0.3        fastmap_1.2.0          labeling_0.4.3        
+ [19] promises_1.3.2         ragg_1.4.0             purrr_1.0.4           
+ [22] bit_4.6.0              jsonlite_2.0.0         goftest_1.2-3         
+ [25] later_1.4.2            spatstat.utils_3.1-4   irlba_2.3.5.1         
+ [28] parallel_4.4.1         cluster_2.1.8.1        ica_1.0-3             
+ [31] stringi_1.8.7          RColorBrewer_1.1-3     spatstat.data_3.1-6   
+ [34] reticulate_1.42.0      parallelly_1.44.0      spatstat.univar_3.1-3 
+ [37] lmtest_0.9-40          scattermore_1.2        Rcpp_1.0.14           
+ [40] tensor_1.5             future.apply_1.11.3    zoo_1.8-14            
+ [43] sctransform_0.4.2      httpuv_1.6.16          Matrix_1.7-3          
+ [46] splines_4.4.1          igraph_2.1.4           tidyselect_1.2.1      
+ [49] dichromat_2.0-0.1      abind_1.4-8            spatstat.random_3.4-1 
+ [52] codetools_0.2-20       miniUI_0.1.2           spatstat.explore_3.4-3
+ [55] listenv_0.9.1          lattice_0.22-7         tibble_3.2.1          
+ [58] plyr_1.8.9             shiny_1.10.0           withr_3.0.2           
+ [61] ROCR_1.0-11            Rtsne_0.17             future_1.49.0         
+ [64] fastDummies_1.7.5      survival_3.8-3         polyclip_1.10-7       
+ [67] fitdistrplus_1.2-2     pillar_1.10.2          KernSmooth_2.23-26    
+ [70] plotly_4.10.4          generics_0.1.4         RcppHNSW_0.6.0        
+ [73] scales_1.4.0           globals_0.18.0         xtable_1.8-4          
+ [76] glue_1.8.0             lazyeval_0.2.2         tools_4.4.1           
+ [79] RSpectra_0.16-2        RANN_2.6.2             dotCall64_1.2         
+ [82] cowplot_1.1.3          grid_4.4.1             tidyr_1.3.1           
+ [85] nlme_3.1-168           patchwork_1.3.0        cli_3.6.5             
+ [88] spatstat.sparse_3.1-0  textshaping_1.0.1      spam_2.11-1           
+ [91] viridisLite_0.4.2      uwot_0.2.3             gtable_0.3.6          
+ [94] digest_0.6.37          progressr_0.15.1       ggrepel_0.9.6         
+ [97] htmlwidgets_1.6.4      farver_2.1.2           htmltools_0.5.8.1     
+[100] lifecycle_1.0.4        httr_1.4.7             mime_0.13             
+[103] bit64_4.6.0-1          MASS_7.3-65           
