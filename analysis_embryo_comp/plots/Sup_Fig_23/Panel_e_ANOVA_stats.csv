@@ -1,0 +1,5 @@
+"","Df","Sum Sq","Mean Sq","F value","Pr(>F)"
+"factor(clone_composition$simple_type)                                     ",2,0.157658393728093,0.0788291968640465,0.735334859761559,0.484456323226577
+"factor(clone_composition$clone_type)                                      ",1,0.148366513782152,0.148366513782152,1.3839931642773,0.244992799258121
+"factor(clone_composition$simple_type):factor(clone_composition$clone_type)",1,0.0630060365630224,0.0630060365630224,0.587733186475388,0.446901718005787
+"Residuals                                                                 ",50,5.36008838813978,0.107201767762796,NA,NA
