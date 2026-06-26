@@ -42,8 +42,8 @@ Quick guide to script - figure link (all in analysis_embryo_comp):
 - Fig. 4i: step15.R
 - Fig. 4j-l: step17.R
 - Ext.Data Fig 4a-d: step08.R
-- Ext. Data Fig 4e: step10
-- Ext. Data Fig 4f: step11 (heatmap new)
+- Ext. Data Fig 4e: step11
+- Ext. Data Fig 4f: step10
 - Ext. Data Fig 5, 6: step04.R
 - Ext. Data Fig 7a,b: step07.R
 - Ext. Data Fig 7c: step20.R
