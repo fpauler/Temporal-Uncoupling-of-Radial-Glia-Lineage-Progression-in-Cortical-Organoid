@@ -184,7 +184,7 @@ ggplot() +
   scale_x_continuous( breaks = c(2,5,8,11,12), labels = c("E10", "E13", "E16", "P0", "P4")) +
   facet_grid(~class) + theme_classic()
 
-ggsave( paste(base, "plots/Sup_Fig_4/S4e_cellType_abundance.pdf", sep=""), width=8, height=3 )
+ggsave( paste(base, "plots/Sup_Fig_4/S4f_cellType_abundance.pdf", sep=""), width=8, height=3 )
 
 ggplot() + 
   geom_point( data = df2plot[which(df2plot$orig %in% c("diBella", "LaManno")),], aes(x=idx, y=mean, color=orig)) + 
