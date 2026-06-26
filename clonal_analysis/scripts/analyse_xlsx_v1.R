@@ -259,7 +259,7 @@ write.csv( x = sum.model, file = paste( base, "/clonal_analysis/output/Ext_Data_
 # =============================
 
 # use a mixed model to include replicates as a random effect
-library(glmmTMB)
+library (glmmTMB)
 library (rlang)
 library (emmeans)
 
@@ -424,38 +424,29 @@ sessionInfo()
 # LAPACK: /usr/lib/x86_64-linux-gnu/lapack/liblapack.so.3.10.0
 # 
 # locale:
-#   [1] LC_CTYPE=en_GB.UTF-8       LC_NUMERIC=C               LC_TIME=de_AT.UTF-8        LC_COLLATE=en_GB.UTF-8     LC_MONETARY=de_AT.UTF-8    LC_MESSAGES=en_GB.UTF-8   
-# [7] LC_PAPER=de_AT.UTF-8       LC_NAME=C                  LC_ADDRESS=C               LC_TELEPHONE=C             LC_MEASUREMENT=de_AT.UTF-8 LC_IDENTIFICATION=C       
+# [1] LC_CTYPE=en_GB.UTF-8       LC_NUMERIC=C               LC_TIME=de_AT.UTF-8        LC_COLLATE=en_GB.UTF-8    
+# [5] LC_MONETARY=de_AT.UTF-8    LC_MESSAGES=en_GB.UTF-8    LC_PAPER=de_AT.UTF-8       LC_NAME=C                 
+# [9] LC_ADDRESS=C               LC_TELEPHONE=C             LC_MEASUREMENT=de_AT.UTF-8 LC_IDENTIFICATION=C       
 # 
 # time zone: Europe/Vienna
 # tzcode source: system (glibc)
 # 
 # attached base packages:
-#   [1] stats4    stats     graphics  grDevices utils     datasets  methods   base     
+# [1] stats     graphics  grDevices utils     datasets  methods   base     
 # 
 # other attached packages:
-#   [1] clusterProfiler_4.10.1      org.Mm.eg.db_3.18.0         AnnotationDbi_1.64.1        ggbeeswarm_0.7.2            DESeq2_1.42.1              
-# [6] SummarizedExperiment_1.32.0 Biobase_2.62.0              MatrixGenerics_1.14.0       matrixStats_1.2.0           GenomicRanges_1.54.1       
-# [11] GenomeInfoDb_1.38.8         IRanges_2.36.0              S4Vectors_0.40.2            BiocGenerics_0.48.1         dplyr_1.1.4                
-# [16] ggplot2_3.5.0               openxlsx_4.2.5.2           
+# [1] emmeans_2.0.3    rlang_1.1.3      glmmTMB_1.1.14   cowplot_1.1.3    dplyr_1.1.4      ggbeeswarm_0.7.2
+# [7] ggplot2_3.5.2    openxlsx_4.2.5.2 tidyxl_1.0.10   
 # 
 # loaded via a namespace (and not attached):
-#   [1] RColorBrewer_1.1-3      rstudioapi_0.16.0       jsonlite_1.8.8          magrittr_2.0.3          farver_2.1.1            ragg_1.3.0             
-# [7] fs_1.6.3                zlibbioc_1.48.2         vctrs_0.6.5             memoise_2.0.1           RCurl_1.98-1.14         ggtree_3.10.1          
-# [13] S4Arrays_1.2.1          SparseArray_1.2.4       gridGraphics_0.5-1      plyr_1.8.9              cachem_1.0.8            igraph_2.1.4           
-# [19] lifecycle_1.0.4         pkgconfig_2.0.3         Matrix_1.6-5            R6_2.5.1                fastmap_1.1.1           gson_0.1.0             
-# [25] GenomeInfoDbData_1.2.11 digest_0.6.34           aplot_0.2.2             enrichplot_1.22.0       colorspace_2.1-0        patchwork_1.2.0        
-# [31] textshaping_0.3.7       RSQLite_2.3.6           labeling_0.4.3          fansi_1.0.6             httr_1.4.7              polyclip_1.10-6        
-# [37] abind_1.4-5             compiler_4.3.2          bit64_4.0.5             withr_3.0.0             BiocParallel_1.36.0     viridis_0.6.5          
-# [43] DBI_1.2.2               ggforce_0.4.2           MASS_7.3-60             DelayedArray_0.28.0     HDO.db_0.99.1           tools_4.3.2            
-# [49] vipor_0.4.7             beeswarm_0.4.0          ape_5.8                 scatterpie_0.2.2        zip_2.3.1               glue_1.7.0             
-# [55] nlme_3.1-163            GOSemSim_2.28.1         grid_4.3.2              shadowtext_0.1.3        reshape2_1.4.4          fgsea_1.28.0           
-# [61] generics_0.1.3          gtable_0.3.4            tidyr_1.3.1             data.table_1.15.0       tidygraph_1.3.1         utf8_1.2.4             
-# [67] XVector_0.42.0          ggrepel_0.9.5           pillar_1.9.0            stringr_1.5.1           yulab.utils_0.1.4       splines_4.3.2          
-# [73] tweenr_2.0.3            treeio_1.26.0           lattice_0.21-9          bit_4.0.5               tidyselect_1.2.1        GO.db_3.18.0           
-# [79] locfit_1.5-9.12         Biostrings_2.70.3       gridExtra_2.3           graphlayouts_1.1.1      stringi_1.8.3           lazyeval_0.2.2         
-# [85] ggfun_0.1.4             codetools_0.2-19        ggraph_2.2.1            tibble_3.2.1            qvalue_2.34.0           ggplotify_0.1.2        
-# [91] cli_3.6.2               systemfonts_1.0.6       munsell_0.5.0           Rcpp_1.0.12             png_0.1-8               parallel_4.3.2         
-# [97] blob_1.2.4              DOSE_3.28.2             bitops_1.0-7            viridisLite_0.4.2       tidytree_0.4.6          scales_1.3.0           
-# [103] packrat_0.9.2           purrr_1.0.2             crayon_1.5.2            rlang_1.1.3             cowplot_1.1.3           fastmatch_1.1-4        
-# [109] KEGGREST_1.42.0     
+#  [1] sandwich_3.1-1      utf8_1.2.4          generics_0.1.3      stringi_1.8.3       lattice_0.21-9     
+#  [6] lme4_1.1-35.3       magrittr_2.0.3      estimability_1.5.1  grid_4.3.2          RColorBrewer_1.1-3 
+# [11] mvtnorm_1.4-1       plyr_1.8.9          Matrix_1.6-5        zip_2.3.1           mgcv_1.9-0         
+# [16] fansi_1.0.6         scales_1.4.0        numDeriv_2016.8-1.1 reformulas_0.4.4    Rdpack_2.6.6       
+# [21] cli_3.6.2           rbibutils_2.4.1     splines_4.3.2       withr_3.0.0         packrat_0.9.2      
+# [26] tools_4.3.2         reshape2_1.4.4      coda_0.19-4.1       nloptr_2.0.3        minqa_1.2.6        
+# [31] boot_1.3-28.1       vctrs_0.6.5         R6_2.5.1            zoo_1.8-12          lifecycle_1.0.4    
+# [36] stringr_1.5.1       vipor_0.4.7         MASS_7.3-60         pkgconfig_2.0.3     beeswarm_0.4.0     
+# [41] pillar_1.9.0        gtable_0.3.6        glue_1.7.0          Rcpp_1.0.12         tibble_3.2.1       
+# [46] tidyselect_1.2.1    rstudioapi_0.16.0   xtable_1.8-4        farver_2.1.1        nlme_3.1-163       
+# [51] TMB_1.9.21          compiler_4.3.2     
