@@ -127,7 +127,7 @@ for (cell_type in c("Radial glia", "Neuron")) {
   
   pheatmap(comp_mat, 
            scale="none", cluster_cols = F, cluster_rows = F,
-           main = cell_type, filename = paste(base, "/plots/Sup_Fig_4/cellType_sim_", ct_out, ".pdf", sep=""))
+           main = cell_type, filename = paste(base, "/plots/Sup_Fig_4/S4e_cellType_sim_", ct_out, ".pdf", sep=""))
   
   comp_mat_list[[ct_out]] <- comp_mat
 }
